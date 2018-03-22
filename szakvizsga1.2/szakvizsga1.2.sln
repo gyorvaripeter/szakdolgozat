@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szakvizsga1.2", "szakvizsga1.2\szakvizsga1.2.csproj", "{38A6495A-A81B-45F0-BAA7-1B4BE3D6631B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Client\Client.csproj", "{B075A585-76F6-4848-BC94-646A700120B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "szakvizsga1.2\Chat\Client\Client.csproj", "{B075A585-76F6-4848-BC94-646A700120B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Server\Server.csproj", "{F84EDACB-78BF-459C-A072-E0321D4684F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "szakvizsga1.2\Chat\Server\Server.csproj", "{F84EDACB-78BF-459C-A072-E0321D4684F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

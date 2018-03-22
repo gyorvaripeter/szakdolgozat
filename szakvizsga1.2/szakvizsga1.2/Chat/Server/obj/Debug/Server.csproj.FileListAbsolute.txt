@@ -16,3 +16,12 @@ C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.Properties.Reso
 C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
 C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
 C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.PrivateChat.resources
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\bin\Debug\Server.exe
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\bin\Debug\Server.pdb
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.Main.resources
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.PrivateChat.resources
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.exe
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.pdb

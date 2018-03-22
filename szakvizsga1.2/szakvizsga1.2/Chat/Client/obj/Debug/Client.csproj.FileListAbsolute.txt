@@ -28,3 +28,13 @@ C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.PrivateChatForm.reso
 C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.Properties.Resources.resources
 C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.PublicChatForm.resources
 C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\bin\Debug\Client.exe
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\bin\Debug\Client.pdb
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.LoginForm.resources
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.PrivateChatForm.resources
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.PublicChatForm.resources
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.exe
+C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.pdb
