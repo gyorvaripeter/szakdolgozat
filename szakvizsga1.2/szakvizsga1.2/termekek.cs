@@ -34,7 +34,7 @@ namespace szakvizsga1._2
         private void dgvform()
         {
             
-            dataGridView1.ColumnCount = 7;
+            dataGridView1.ColumnCount = 6;
             dataGridView1.Columns[0].Name = "Term_ID";
             dataGridView1.Columns[0].CellTemplate.ValueType = typeof(int);
             dataGridView1.Columns[0].ReadOnly = true;
@@ -115,10 +115,24 @@ namespace szakvizsga1._2
             
             retrieve();
             textBox2.Text.ToUpper();
-            
-           
+
+
             //-----------------------------------------------------
-            
+            string id2 = dataGridView1.SelectedRows[0].Cells[0].Value.ToString();
+            int id = Convert.ToInt32(id2);
+            textBox1.Text = id.ToString();
+            textBox2.Text = dataGridView1.SelectedRows[0].Cells[1].Value.ToString().ToUpper();
+            comboBox1.Text = dataGridView1.SelectedRows[0].Cells[2].Value.ToString();
+            textBox4.Text = dataGridView1.SelectedRows[0].Cells[3].Value.ToString();
+            textBox5.Text = dataGridView1.SelectedRows[0].Cells[4].Value.ToString().Trim('d', 'b');
+            textBox6.Text = dataGridView1.SelectedRows[0].Cells[5].Value.ToString().Trim('F', 't');
+            //pictureBox7.Image = LoadPhoto((byte[]))
+
+            CodeQrBarcodeDraw qrcode = BarcodeDrawFactory.CodeQr;
+
+            barcode.Image = qrcode.Draw(textBox2.Text, 30);
+
+
         }
 
         //-------------------------------------------------------------

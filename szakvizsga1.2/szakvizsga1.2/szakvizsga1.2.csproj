@@ -52,6 +52,9 @@
       <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Windows.Forms.DataVisualization" />
@@ -307,16 +310,6 @@
     <None Include="icons\arrowup.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Desktop\TCP Chat\Client\Client.csproj">
-      <Project>{b075a585-76f6-4848-bc94-646a700120b6}</Project>
-      <Name>Client</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\..\..\Desktop\TCP Chat\Server\Server.csproj">
-      <Project>{f84edacb-78bf-459c-a072-e0321d4684f8}</Project>
-      <Name>Server</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="icons\backgroundeladasok.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -330,6 +323,19 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Client\Client.csproj">
+      <Project>{b075a585-76f6-4848-bc94-646a700120b6}</Project>
+      <Name>Client</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Server\Server.csproj">
+      <Project>{f84edacb-78bf-459c-a072-e0321d4684f8}</Project>
+      <Name>Server</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
