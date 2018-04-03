@@ -96,6 +96,12 @@ namespace szakvizsga1._2
             eladasok elad = new _2.eladasok();
             elad.Show();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            vasarlok vasarlok = new vasarlok();
+            vasarlok.Show();
+        }
     }
 
 

@@ -38,3 +38,13 @@ C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.PublicChatFo
 C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
 C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.exe
 C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.pdb
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Client\bin\Debug\Client.exe
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Client\bin\Debug\Client.pdb
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.LoginForm.resources
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.PrivateChatForm.resources
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.PublicChatForm.resources
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.exe
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Client\obj\Debug\Client.pdb

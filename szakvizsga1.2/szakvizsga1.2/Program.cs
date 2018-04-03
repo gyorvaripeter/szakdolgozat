@@ -18,10 +18,7 @@ namespace szakvizsga1._2
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form2());
         }
-        public static void Invoke(this Control control, Action action)
-        {
-            control.Invoke(action);
-        }
+      
              
     }
 }

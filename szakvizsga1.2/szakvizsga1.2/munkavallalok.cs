@@ -16,5 +16,13 @@ namespace szakvizsga1._2
         {
             InitializeComponent();
         }
+
+        private void munkavallalok_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'adatbazisDataSet3.Munkavallalok' table. You can move, or remove it, as needed.
+            this.munkavallalokTableAdapter.Fill(this.adatbazisDataSet3.Munkavallalok);
+
+
+        }
     }
 }

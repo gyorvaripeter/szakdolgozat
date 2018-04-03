@@ -82,6 +82,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdatbazisDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AdatbazisDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AdatbazisDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AdatbazisDataSet3.xsd</DependentUpon>
+    </Compile>
     <Compile Include="easteregg2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -156,6 +166,9 @@
     <EmbeddedResource Include="kimutatasok.resx">
       <DependentUpon>kimutatasok.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="munkavallalok.resx">
+      <DependentUpon>munkavallalok.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -172,6 +185,28 @@
     <EmbeddedResource Include="vasarlok.resx">
       <DependentUpon>vasarlok.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="AdatbazisDataSet.xsc">
+      <DependentUpon>AdatbazisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AdatbazisDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AdatbazisDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AdatbazisDataSet.xss">
+      <DependentUpon>AdatbazisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AdatbazisDataSet3.xsc">
+      <DependentUpon>AdatbazisDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="AdatbazisDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AdatbazisDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AdatbazisDataSet3.xss">
+      <DependentUpon>AdatbazisDataSet3.xsd</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

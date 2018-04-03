@@ -279,8 +279,13 @@ namespace szakvizsga1._2
             comboBox1.Text=dataGridView1.SelectedRows[0].Cells[2].Value.ToString();
             textBox4.Text = dataGridView1.SelectedRows[0].Cells[3].Value.ToString();
             textBox5.Text = dataGridView1.SelectedRows[0].Cells[4].Value.ToString().Trim('d', 'b');
+            if (Convert.ToInt32(textBox5.Text)==0)
+            {
+                dataGridView1.SelectedRows[0].DefaultCellStyle.SelectionBackColor = Color.Red;
+                MessageBox.Show("Nincs ebből a termékből!");
+            }
             textBox6.Text = dataGridView1.SelectedRows[0].Cells[5].Value.ToString().Trim('F', 't');
-            //pictureBox7.Image = LoadPhoto((byte[]))
+           // byte image1 = LoadPhoto(Convert.ToByte(dataGridView1.SelectedRows[0].Cells[6].Value);
 
             CodeQrBarcodeDraw qrcode = BarcodeDrawFactory.CodeQr;
 

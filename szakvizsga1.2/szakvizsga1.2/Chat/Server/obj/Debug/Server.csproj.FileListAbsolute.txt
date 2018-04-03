@@ -25,3 +25,12 @@ C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.Properties.R
 C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
 C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.exe
 C:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.pdb
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Server\bin\Debug\Server.exe
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Server\bin\Debug\Server.pdb
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.exe
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\Chat\Server\obj\Debug\Server.pdb

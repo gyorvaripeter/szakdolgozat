@@ -13,7 +13,7 @@ namespace Client
         public event EventHandler Connected = delegate { };
         public delegate void DisconnectedEventHandler(ClientSettings cs);
         public event DisconnectedEventHandler Disconnected = delegate {};
-        bool _connected;
+        public bool _connected;
 
         public ClientSettings()
         {

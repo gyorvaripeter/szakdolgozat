@@ -97,7 +97,7 @@ namespace szakvizsga1._2
             Role = label4.Text;
             kapcsolat.Close();
            
-            //--------------------------------------------------------------------
+            //*******************************************************************
 
             OleDbCommand loginparancs = new OleDbCommand();
             int i = 0;
@@ -105,7 +105,7 @@ namespace szakvizsga1._2
             try
             {
 
-                //------------------------------------------------------------------
+                //------------------------BEJELENTKEZÉS------------------------------------------
 
                 loginparancs = new OleDbCommand("SELECT count(*) FROM Munkavallalok WHERE Username='" + textBox1.Text + "' AND Password='" + textBox2.Text + "'", kapcsolat);
 
@@ -163,8 +163,7 @@ namespace szakvizsga1._2
 
         private void pictureBox4_Click(object sender, EventArgs e)
         {
-           
-            Application.Exit();
+          Application.Exit();
         }
     }
 }

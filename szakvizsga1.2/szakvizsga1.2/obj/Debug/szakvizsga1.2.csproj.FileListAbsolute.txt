@@ -143,3 +143,8 @@ c:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\bin\Debug\AxInterop.ShockwaveFlashObjects
 c:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\bin\Debug\AxInterop.WMPLib.dll
 c:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\obj\Debug\szakvizsga1.2.exe
 c:\DEV\GYP\szakvizsga1.2\szakvizsga1.2\obj\Debug\szakvizsga1.2.pdb
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\bin\Debug\lib\DGV Printer.dll
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\bin\Debug\Zen.Barcode.Design.dll
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\bin\Debug\Zen.Barcode.Web.dll
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\bin\Debug\Zen.Barcode.Web.Mvc.dll
+C:\Users\Felhasználó\Documents\GitHub\szakdolgozat\szakvizsga1.2\szakvizsga1.2\obj\Debug\szakvizsga1._2.munkavallalok.resources
